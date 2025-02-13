@@ -6,7 +6,7 @@ mensagens = [
     "Olá, obrigado por comprar conosco!",
     "Seu pedido foi confirmado e está sendo preparado.",
     "Em breve você receberá informações de envio. Acompanhe seu pedido pelo site."
-]
+] 
 
 # Função para enviar mensagens no terminal
 def enviar_mensagens():
