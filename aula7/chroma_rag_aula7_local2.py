@@ -2,7 +2,7 @@ from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
-from aula7.criando_vetores_no_banco_local import vectorstore
+from criando_vetores_no_banco_local import vectorstore
 from langchain.embeddings import OllamaEmbeddings
 from langchain_community.llms import Ollama
 
