@@ -13,6 +13,7 @@ llm = HuggingFaceHub(
     model_kwargs={"temperature": 0.7, "max_length": 512},
     huggingfacehub_api_token=os.getenv("HUGGINGFACEHUB_API_TOKEN")
 )
+
 # Cria a cadeia de perguntas e respostas
 qa = RetrievalQA.from_chain_type(
     llm=llm,

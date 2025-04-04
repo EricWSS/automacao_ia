@@ -1,9 +1,5 @@
-from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import CharacterTextSplitter
-from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from aula7.LOCAL.criando_vetores_no_banco_local1 import vectorstore
-from langchain.embeddings import OllamaEmbeddings
 from langchain_community.llms import Ollama
 
 pergunta = "Como posso solicitar um reembolso?"

@@ -19,7 +19,7 @@ embedding_function = HuggingFaceInferenceAPIEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-# # 3. Gerar embeddings e salvar no ChromaDB
+# 4. Gerar embeddings e salvar no ChromaDB
 vectorstore = Chroma.from_documents(
     documents=blocos,
     embedding=embedding_function,
