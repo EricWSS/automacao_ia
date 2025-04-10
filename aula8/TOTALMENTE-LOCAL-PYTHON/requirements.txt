@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+ollama
