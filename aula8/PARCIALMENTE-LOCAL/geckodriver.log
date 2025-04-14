@@ -1,0 +1,27 @@
+1744244189132	geckodriver	INFO	Listening on 127.0.0.1:52751
+1744244302898	geckodriver	INFO	Listening on 127.0.0.1:52796
+1744244418044	geckodriver	INFO	Listening on 127.0.0.1:52913
+1744244421104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eric\\AppData\\Local\\Temp\\rust_mozprofile7bVNWW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1744244421317	Marionette	INFO	Marionette enabled
+1744244421427	Marionette	INFO	Listening on port 52922
+WebDriver BiDi listening on ws://127.0.0.1:52914
+Read port: 52922
+1744244421613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iOtb4/yo/l/rt/2_MEW5mXmEIfwA_k4oHAeO7Heh5eE9q-5wdwDvXx_J0svsWqehdEtWw.js, line 96: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iR5P4/yN/l/rt/CpZqOg_ddQk.js, line 794: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iR5P4/yN/l/rt/CpZqOg_ddQk.js, line 794: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iR5P4/yN/l/rt/CpZqOg_ddQk.js, line 794: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4ii2M4/y3/l/rt/-nvWrjkmU75.js, line 577: unreachable code after return statement
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://web.whatsapp.com/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://web.whatsapp.com/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://web.whatsapp.com/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://web.whatsapp.com/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://web.whatsapp.com/" ({})
+1744245083628	Marionette	INFO	Stopped listening on port 52922
+Dynamically enable window occlusion 1

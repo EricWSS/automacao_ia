@@ -22,7 +22,7 @@ embedding = OllamaEmbeddings(model="mistral")
 vectorstore = Chroma.from_documents(
     documents=blocos,
     embedding=embedding,
-    persist_directory="./chroma_db"
+    persist_directory="chroma_db"
 )
 
 
